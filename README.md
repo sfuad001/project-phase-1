@@ -5,7 +5,7 @@ UCR Email:
 ## Video Link
 ```
 A short video demonstrating the success of your experiments with some explanation. 
-Post the video link of the presentation here.
+Upload it to a drive and post the video link of the presentation here.
 ```
 << Write here >>
 
